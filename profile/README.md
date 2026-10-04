@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./tps-mark-on-dark.svg">
-  <img src="./tps-mark-on-light.svg" alt="The Pixel Scientists" width="64">
+  <img src="./tps-mark-on-light.svg" alt="The Pixel Scientists" width="96">
 </picture>
 
 # The Pixel Scientists
